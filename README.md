@@ -1,6 +1,6 @@
 # Desktop Application - CRUD using Entity Framework (Database First)
-## This is a simple Desktop Application developed using C# and Windows Forms that performs CRUD (Create, Read, Update, Delete) operations on a database.
-## The project follows the Database First approach using Entity Framework, allowing seamless interaction between the application and the database
+### This is a simple Desktop Application developed using C# and Windows Forms that performs CRUD (Create, Read, Update, Delete) operations on a database.
+### The project follows the Database First approach using Entity Framework, allowing seamless interaction between the application and the database
 ### Technologies Used
 - C# (.NET Framework)
 - Windows Forms (WinForms)
